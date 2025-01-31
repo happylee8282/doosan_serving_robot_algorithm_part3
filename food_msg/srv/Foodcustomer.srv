@@ -1,0 +1,6 @@
+int32 table_num #테이블 번호
+string[] food_id  # 음식 이름 리스트
+int32[] food_count  # 음식 개수 리스트
+string order_date
+---
+int32 success  # 요청 성공 여부

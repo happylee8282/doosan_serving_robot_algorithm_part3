@@ -1,0 +1,3 @@
+int32 table_num_1 #테이블 번호
+---
+int32 success_1  # 요청 성공 여부
